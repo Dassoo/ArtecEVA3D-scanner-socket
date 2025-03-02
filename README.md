@@ -57,8 +57,6 @@ In this script, the scans were also originally uploaded into a dedicated cloud r
 
 > <b>Note</b>: It may happen that the scanner will be not able to capture a frame and that it won't get registered due to not having enough distance from the scanning area, for which is required a minimum of 60cm. In the default code the scanner will attempt to scan up to 5 times before eventually failing the single acquisition.
 
-> <b>IMPORTANT</b>: If the cloud upload is needed, remember to first manually open the AerariumChain app on the server pc before starting to execute any scanning process, else the upload process will fail.
-
 You can find locally the scanning results in the subfolder you chose in the settings inside the `projects` folder. The same folders tree will also be replicated on the server side.
 
 
