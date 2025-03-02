@@ -1,0 +1,10 @@
+[server]
+ip = "insert server ip here"
+port = 3000
+
+[paths]
+base = "C:/Users/iit_c/Desktop/scanner_socket_old"
+folder = "prova_4_12"
+
+[data]
+auth_token = "insert your token" # not for public purposes
